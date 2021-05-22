@@ -1,0 +1,8 @@
+Required 
+
+1 bootstrap 
+2 reactstrap
+3 react-icons
+
+command 
+npm i bootstrap reactstrap react-icons

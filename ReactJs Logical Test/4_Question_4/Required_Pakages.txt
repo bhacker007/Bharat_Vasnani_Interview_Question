@@ -1,0 +1,7 @@
+1   @material-ui/core
+2  @material-ui/icons
+3   reactstrap
+
+
+combine command 
+npm i @material-ui/core @material-ui/icons

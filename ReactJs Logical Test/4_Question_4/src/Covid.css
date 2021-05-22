@@ -1,0 +1,12 @@
+.mydiv{
+    display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: 1fr 1fr 1fr;
+  gap: 30px 20px;
+}
+.Heading{
+    height:100px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
